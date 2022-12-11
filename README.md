@@ -1,4 +1,4 @@
-# neural_implicit_models
+# lantern-sandbox
 
 Repository for experimenting with neural implicit models for scene representation. The idea behind this project is to build continual learning models capable of fitting scenes **in real-time**, like [iMAP](https://edgarsucar.github.io/iMAP/), but with support for inputs other than images (e.g., LIDAR).
                                                       
